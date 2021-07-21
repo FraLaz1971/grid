@@ -1,6 +1,6 @@
 # makes a grid
 ![show points on a grid](https://github.com/FraLaz1971/grid/blob/main/gridpoints.png "points on a grid")
-# needs gnuplot and bash or sh
+# needs gnuplot and bash
 ### usage
 make grid
 ### on win msys2/mingw
