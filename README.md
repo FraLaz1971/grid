@@ -1,5 +1,5 @@
-![show points on a grid](https://github.com/FraLaz1971/grid/blob/main/gridpoints.png "points on a grid")
 # makes a grid
+![show points on a grid](https://github.com/FraLaz1971/grid/blob/main/gridpoints.png "points on a grid")
 # needs gnuplot and bash or sh
 ### usage
 make grid
