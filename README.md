@@ -16,4 +16,4 @@ STEP = <some step>
 make clean
 ### and then re-run
 make grid
-![show points on a grid](https://assets.digitalocean.com/articles/alligator/boo.svg https://github.com/FraLaz1971/grid/blob/main/gridpoints.png "points on a grid")
+![show points on a grid](https://github.com/FraLaz1971/grid/blob/main/gridpoints.png "points on a grid")
