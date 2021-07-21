@@ -14,7 +14,7 @@ tot.dat:
 	./rows.sh $(MAXX) $(MAXY) $(STEP) >> tot.dat;
 
 grid: tot.dat
-	gnuplot -p -e "set size ratio 1;plot 'tot.dat' with lines"
+	gnuplot -p grid.gp
 
 clean:
 	$(RM) tot.dat
